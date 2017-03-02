@@ -1,0 +1,8 @@
+{
+    "name"              :"TopList",
+    "description"       :"List of TopSeller",
+    "namespace"         :"TopList",
+    "author"            :"Kandrell",
+    "type"              :"template",
+    "serviceProvider"   :"TopItem\\Providers\\ServiceProvider"
+}
